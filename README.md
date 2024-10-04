@@ -15,3 +15,21 @@ The project will involve the following tasks:
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
+### Part I: EDA - Exploratory Data Analysis & Pre-processing
+- Data Import: Loaded the dataset for an initial analysis using basic libraries.
+- Data Description and Cleaning: Generated summary statistics and addressed any missing values and inaccuracies in the data.
+- Data Visualization: Created visualizations to explore the relationships between different variables.
+- Correlation Analysis: Analyzed correlations among various variables.
+- Outlier Detection: Identified and managed outliers within the dataset.
+- Data Transformation: Standardized the data to prepare it for clustering analysis.
+### Part II: PCA
+Used Principal Component Analysis to identify the key combinations of features that most effectively describe customer purchasing behavior.
+
+### Part III: KMeans Clustering
+Investigated customer segmentation using KMeans clustering, determining the optimal number of clusters and examining the characteristics of each cluster.
+
+### Part IV: Hierarchical Clustering
+Conducted hierarchical clustering to gain deeper insights into customer groupings, utilizing dendrogram analysis for interpretation.
+
+### Part V: Conclusion
+Summarized the main findings from the analysis.
